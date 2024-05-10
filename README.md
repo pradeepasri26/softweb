@@ -87,18 +87,6 @@ Publish the website in the given URL.
     color: #6fa1f8;
     cursor: pointer;
   }
-  #search.hover {
-    border: 1px;
-    padding: 10px;
-
-    transition: 0.5s;
-    cursor: pointer;
-    border-radius: 30px;
-    background:  #6fa1f8;
-    color: #081b29;
-    box-shadow: 0 0 20px #6fa1f8;
-
-  }
   .navbar li {
     list-style: none;
     display: inline-block;
@@ -187,7 +175,6 @@ Publish the website in the given URL.
     box-shadow: 0 0 20px #6fa1f8;
   }
     </style>
-    
 </head>
 <body>
     <div class="banner">
@@ -226,7 +213,6 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-
 ## products.html
 ```
 <!DOCTYPE html>
@@ -324,11 +310,6 @@ form button {
     cursor: pointer;
     border-radius: 30px;
 }
-.container {
-    background: transparent;
-    padding: 10px 5%;
-    padding-bottom: 100px;
-}
 .container .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
@@ -391,9 +372,6 @@ footer {
             <div class="box-container">
                 <div class="box">
                     <img src="logo2.png" alt="">
-                    <h3> SiteGenie Builder </h3>
-                    <p> Simplified drag and drop website creation. </p>
-                </div>
                 <div class="box">
                     <img src="logo3.png" alt="">
                     <h3> DevSync Hub Pro </h3>
@@ -561,19 +539,7 @@ footer {
             .image table td {
                 color: #6fa1f8;
             }
-            footer {
-    border: 1px;
-    padding: 10px;
 
-    transition: 0.5s;
-    cursor: pointer;
-    border-radius: 30px;
-    background:#6fa1f8;
-
-    color: #081b29;
-    box-shadow: 0 0 20px #6fa1f8;
-
-  }
         </style>
     </head>
 <body>
@@ -693,15 +659,6 @@ footer {
             ::placeholder {
                 color: white;
             }
-            .navbar form button {
-                border: 0;
-                outline: none;
-                padding: 5px 20px;
-                color: white;
-                border-radius: 10px;
-                background: #6fa1f8;
-                cursor: pointer;
-            }
             .navbar li {
                 list-style: none;
                 display: inline-block;
@@ -804,19 +761,6 @@ footer {
             .box-2 span {
                 color: #6fa1f8;
                 font-size: 20px;
-            }
-            footer {
-    border: 1px;
-    padding: 10px;
-
-    transition: 0.5s;
-    cursor: pointer;
-    border-radius: 30px;
-    background:#6fa1f8;
-
-    color: #081b29;
-    box-shadow: 0 0 20px #6fa1f8;
-
   }
         </style>
     </head>
