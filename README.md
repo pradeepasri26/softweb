@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+# Ex-07 Software Product Company Website
 ## Date:
 
 ## AIM:
