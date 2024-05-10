@@ -459,13 +459,6 @@ footer {
                 align-items: center;
                 justify-content: space-between;
             }
-            .bg-people {
-                border: 1px;
-                padding: 10px;
-                color: white;
-                background-color: #6fa1f8;
-                border-radius: 30px;
-            }
             .logo {
                 color: #6fa1f8;
                 font-size: 40px;
@@ -593,7 +586,6 @@ footer {
 </body>
 </html>
 ```
-
 ## contact.html
 ```
 <html>
@@ -809,14 +801,11 @@ footer {
 </body>
 </html>
 ```
-
 ## OUTPUT:
 ![Screenshot 2024-04-30 190547](https://github.com/pradeepasri26/softweb/assets/131433142/1799decf-0a78-425b-a4e0-ea11972f2362)
 ![Screenshot 2024-04-30 190635](https://github.com/pradeepasri26/softweb/assets/131433142/007620db-08df-4ddd-ae75-a3093df43d3f)
 ![Screenshot 2024-04-30 192055](https://github.com/pradeepasri26/softweb/assets/131433142/34f7df21-3fd9-4a96-8634-e1542a9846a4)
 ![Screenshot 2024-04-30 192143](https://github.com/pradeepasri26/softweb/assets/131433142/a4513a76-4ff8-4791-b101-12b3fdd8d2c3)
-
-
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
