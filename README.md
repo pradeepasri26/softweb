@@ -64,18 +64,6 @@ Publish the website in the given URL.
     font-weight: 700;
     letter-spacing: 3px;
   }
-
-  
-  form {
-    width: 300px;
-    height: 40px;
-    display: flex;
-    background: rgba(255, 255, 255, 0.2);
-    padding: 1px 1px;
-    font-size: 15px;
-    border-radius: 10px;
-    backdrop-filter: blur(4px) saturate(180%);
-  }
   form input {
     background: transparent;
     flex: 1;
@@ -96,9 +84,7 @@ Publish the website in the given URL.
     padding: 5px 20px;
     color: white;
     border-radius: 10px;
-   
     color: #6fa1f8;
-
     cursor: pointer;
   }
   #search.hover {
@@ -109,7 +95,6 @@ Publish the website in the given URL.
     cursor: pointer;
     border-radius: 30px;
     background:  #6fa1f8;
-
     color: #081b29;
     box-shadow: 0 0 20px #6fa1f8;
 
@@ -128,12 +113,10 @@ Publish the website in the given URL.
   .navbar li:hover {
     border: 1px;
     padding: 10px;
-
     transition: 0.5s;
     cursor: pointer;
     border-radius: 30px;
     background: #6fa1f8;
-
     color: #081b29;
     box-shadow: 0 0 20px #6fa1f8;
 
@@ -196,12 +179,10 @@ Publish the website in the given URL.
   footer {
     border: 1px;
     padding: 10px;
-
     transition: 0.5s;
     cursor: pointer;
     border-radius: 30px;
     background:#6fa1f8;
-
     color: #081b29;
     box-shadow: 0 0 20px #6fa1f8;
   }
@@ -537,15 +518,6 @@ footer {
             } 
             ::placeholder {
                 color: white;
-            }
-            form button {
-                border: 0;
-                outline: none;
-                padding: 5px 20px;
-                color: white;
-                border-radius: 10px;
-                background: #6fa1f8;
-                cursor: pointer;
             }
             .navbar li {
                 list-style: none;
